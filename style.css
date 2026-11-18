@@ -1,0 +1,24 @@
+body {
+  background-color: honeydew;
+}
+
+.stage {
+  background-color: yellow;
+}
+
+.box {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+#past {
+  margin: 10px;
+}
+
+#present {
+  margin: 45px;
+}
+
+#future {
+  margin: 90px;
+}
